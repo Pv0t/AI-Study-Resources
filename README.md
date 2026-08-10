@@ -48,6 +48,7 @@
 - [Malware Images: Visualization and Automatic Classification](https://dl.acm.org/doi/epdf/10.1145/2016904.2016908)
 - [A Hitchhiker’s Guide to Jailbreaking ChatGPT via Prompt Engineering](https://dl.acm.org/doi/pdf/10.1145/3663530.3665021)
 - [Exploring Performance Contrasts in TableQA: Step-by-Step Reasoning Boosts Bigger Language Models, Limits Smaller Language Models](https://arxiv.org/pdf/2411.16002)
+- [Ignore Previous Prompt: Attack Techniques For Language Mode](https://arxiv.org/pdf/2211.09527)
 
 ## 3.5 Tools
 - [ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN)
