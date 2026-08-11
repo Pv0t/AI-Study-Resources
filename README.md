@@ -51,6 +51,14 @@
 - [Ignore Previous Prompt: Attack Techniques For Language Mode](https://arxiv.org/pdf/2211.09527)
 - [Effective Prompt Extraction from Language Models](https://arxiv.org/pdf/2307.06865)
 
+## 3.5 Multi-Agent Framework
+Several frameworks enable multi-agent system development.
+- [_LangGraph_](https://langchain-ai.github.io/langgraph/) provides graph-based orchestration with explicit state management. Security concerns include state persistence that can expose sensitive data, conditional routing that attackers can manipulate, and serialized checkpoints that they can exploit.
+- [_AutoGen_](https://microsoft.github.io/autogen/) from Microsoft Research enables conversation-driven multi- agent coordination. Code execution agents present direct RCE vectors, group chat functionality allows any agent to hijack conversations, and all participants can access conversation history.
+- [_CrewAI_](https://www.crewai.io/) uses role-based agent collaboration with task delegation. Attackers can override role definitions stored in prompts, persist malicious content through memory systems, and manipulate task delegation.
+- [_OpenAI Swarm_](https://github.com/openai/swarm) provides lightweight agent handoffs with function-based tools. It has minimal security validation, weak handoff authentication, and context variables that can carry injection payloads between agents.
+- [_Google A2A_](https://github.com/google/A2A) is a standardized protocol for cross-vendor agent interoperability. Because it's a standard, vulnerabilities affect all compliant implementations. The discovery mechanism enables impersonation, and the parsing and validation logic presents additional attack surface.
+
 ## 3.5 Tools
 - [ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN)
 - [BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts/blob/main/Jailbreaks.md)
