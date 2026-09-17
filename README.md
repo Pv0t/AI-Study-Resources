@@ -2,6 +2,13 @@
 > [!IMPORTANT]
 > I do not claim ownership or credit for any of these resources. This repository was created to collect and organize valuable AI learning materials in one place. Its purpose is to provide a centralized resource for anyone interested in AI (artificial intelligence), making it easier to discover and access useful content.
 
+# 1.0 Laws
+## 1.1 United States (USA)
+- [TAKE IT DOWN Act](https://en.wikipedia.org/wiki/TAKE_IT_DOWN_Act)
+
+## 2.0 Europe
+- [EU Artificial Intelligence Act](https://artificialintelligenceact.eu/)
+
 # 1.0 Frameworks
 - [ATLAS Matrix for AI Systems](https://atlas.mitre.org/)
 - [Google - SAIF risk map components](https://saif.google/secure-ai-framework/components)
