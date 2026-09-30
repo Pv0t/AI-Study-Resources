@@ -23,6 +23,7 @@
 
 ## 3.1 News
 - [An AI-powered coding tool wiped out a software company’s database, then apologized for a ‘catastrophic failure on my part’](https://fortune.com/2025/07/23/ai-coding-tool-replit-wiped-database-called-it-a-catastrophic-failure/)
+- [FTC Announces Crackdown on Deceptive AI Claims and Schemes](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-announces-crackdown-deceptive-ai-claims-schemes)
 
 ## 3.2 Guides
 - [LLM Red Teaming: The Complete Step-By-Step Guide To LLM Safety](https://www.confident-ai.com/blog/red-teaming-llms-a-step-by-step-guide)
