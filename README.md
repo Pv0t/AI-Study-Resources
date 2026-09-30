@@ -15,6 +15,7 @@
 - [Google - Risks](https://saif.google/secure-ai-framework/risks)
 - [Google - Controls](https://saif.google/secure-ai-framework/controls)
 - [Google - SAIF Risk map](https://saif.google/secure-ai-framework/saif-map)
+- [https://www.nist.gov/itl/ai-risk-management-framework](https://www.nist.gov/itl/ai-risk-management-framework)
 
 # 2.0 Network
 - [What is the Model Context Protocol (MCP)?](https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro)
