@@ -83,3 +83,4 @@ Several frameworks enable multi-agent system development.
 - [Overview Model Armor](https://docs.cloud.google.com/model-armor/overview?hl=it)
 - [Meta - Llama Prompt Guard 2](https://developer.meta.com/ai/docs/model-cards-and-prompt-formats/prompt-guard/)
 - [ShieldGemma model card](https://ai.google.dev/gemma/docs/shieldgemma/model_card)
+- [AI ML Supply Chain Risks and Mitigations](https://media.defense.gov/2026/Mar/04/2003882809/-1/-1/0/AI_ML_SUPPLY_CHAIN_RISKS_AND_MITIGATIONS.PDF)
